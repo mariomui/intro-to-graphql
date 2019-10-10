@@ -1,3 +1,5 @@
+All masters will bed dated by last touched and what % completed
+2019/10/09
 # Intro to GraphQL
 > Scott Moss & Frontend Masters
 
